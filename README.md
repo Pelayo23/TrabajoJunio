@@ -4,6 +4,7 @@ Creacion de una aplicación web la cual es una tienda de camisetas de la NBA
 ## Usuarios y Contraseñas
 
 Para el usuario administrativo el usuario es "pelayo" y la contraseña "admin"
+
 Para el usuario comun el usuario es "carlos" y la contraseña "usuario"
 
 #### Funciones mínimas:
